@@ -42,7 +42,7 @@ const Weather = () => {
             >
                 <source src="/weather.mp4" type="video/mp4" />
             </video>
-            <div className='flex flex-col m-4 gap-4 text-center'><h1 className='text-4xlxl font-bold'>Weather report</h1>
+            <div className='flex flex-col m-4 gap-4 text-center'><h1 className='text-4xl font-bold'>Weather report</h1>
                 <p className='font-semibold text-xl'>I can give a weather report about your city !</p>
             </div>
 
